@@ -1,0 +1,130 @@
+/* Header */
+header{
+    background-color: #000000;
+    width: 100%;
+    height: 100px;
+    }
+
+/* Tabel */
+#een{
+    width: 200px;
+    height: 200px;
+    background-color: #FF6633;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #twee{
+    width: 200px;
+    height: 200px;
+    background-color: #FF6600;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #drie{
+    width: 200px;
+    height: 200px;
+    background-color: #FF33FF;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #vier{
+    width: 200px;
+    height: 200px;
+    background-color: #FF33CC;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #vijf{
+    width: 200px;
+    height: 200px;
+    background-color: #FF3399;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #zes{
+    width: 200px;
+    height: 200px;
+    background-color: #FF3366;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #zeven{
+    width: 200px;
+    height: 200px;
+    background-color: #FF3333;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #acht{
+    width: 200px;
+    height: 200px;
+    background-color: #FF3300;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #negen{
+    width: 200px;
+    height: 200px;
+    background-color: #FF00FF;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #tien{
+    width: 200px;
+    height: 200px;
+    background-color: #FF00CC;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #elf{
+    width: 200px;
+    height: 200px;
+    background-color: #FF0099;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #twaalf{
+    width: 200px;
+    height: 200px;
+    background-color: #FF0066;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #dertien{
+    width: 200px;
+    height: 200px;
+    background-color: #FF0033;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #veertien{
+    width: 200px;
+    height: 200px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #vijftien{
+    width: 200px;
+    height: 200px;
+    background-color: #CC00FF;
+    color: #FFFFFF;
+    text-align: center;
+   }
+   #zestien{
+    width: 200px;
+    height: 200px;
+    background-color: #CC00CC;
+    color: #FFFFFF;
+    text-align: center;
+   }
+
+
+
+/* Footer */
+footer{
+    background-color: #000000;
+    width: 100%;
+    height: 400px;
+    }
+
